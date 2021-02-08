@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from lista_livros.models import Livros
+from .models import Livros
 
 
 
